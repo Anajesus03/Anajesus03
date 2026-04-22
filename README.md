@@ -70,4 +70,4 @@ Database and object-oriented programming project with SQL scripts and applicatio
 ## 📫 Contact Me
 
 - 📧 [acctj03@gmail.com](mailto:acctj03@gmail.com)
-- 💼 [LinkedIn](www.linkedin.com/in/ana-c-jesus)
+- 💼 [LinkedIn](https://www.linkedin.com/in/ana-c-jesus)
